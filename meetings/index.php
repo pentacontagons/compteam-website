@@ -5,7 +5,7 @@
   </head>
 
   <body>
-    <h1> <a href="files/Week_2.pdf"> October 4th presentation </a> </h1>
+    <h1> <a href="files/October_4.pdf"> October 4th presentation </a> </h1>
   </body>
 
 </html>

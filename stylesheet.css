@@ -1,0 +1,21 @@
+.header li
+{
+	display: block;	
+}
+
+ul
+{
+	margin: 0;
+	padding: 0;
+	float: left; 
+}
+
+.header a:hover
+{
+	background-color: rgba(135,206,250,0.5);
+}
+
+.current
+{
+	background-color: rgb(135,206,250);
+}

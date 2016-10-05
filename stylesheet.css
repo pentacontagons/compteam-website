@@ -1,62 +1,21 @@
-#wrapper
+.header li
 {
-	width: 100%;
-	clear: both;
+	display: block;	
 }
 
-body
+ul
 {
-	margin: 0px;
-}
-
-/* Aligning the header and the body */
-.header
-{
-	width: 20%;
-	float: left;
-}
-
-.info
-{
-	width: 80%;
-	float: left;
-}
-
-/* Hovering for the header links */
-
-.header
-{
-	text-align: center;
-}
-
-.header ul
-{
-	overflow: hidden;
-	list-style-type: none;
 	margin: 0;
-	text-align: center;
-	padding-left: 0px;
+	padding: 0;
+	float: left; 
 }
 
-.header a
-{
-	text-align:center;
-	display: flex;
-	justify-content: center;
-	margin-bottom: 10%;
-	height: 10%;
-	vertical-align: middle;
-	display: flex;
-	align-items: center;
-}
-	
 .header a:hover
 {
-	background-color:blue;
+	background-color: rgba(135,206,250,0.5);
 }
 
-/* Body Centering */
-.info
+.current
 {
-	text-align: center;
+	background-color: rgb(135,206,250);
 }

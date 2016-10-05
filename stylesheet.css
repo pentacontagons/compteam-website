@@ -1,21 +1,62 @@
-.header li
+#wrapper
 {
-	display: block;	
+	width: 100%;
+	clear: both;
 }
 
-ul
+body
 {
+	margin: 0px;
+}
+
+/* Aligning the header and the body */
+.header
+{
+	width: 20%;
+	float: left;
+}
+
+.info
+{
+	width: 80%;
+	float: left;
+}
+
+/* Hovering for the header links */
+
+.header
+{
+	text-align: center;
+}
+
+.header ul
+{
+	overflow: hidden;
+	list-style-type: none;
 	margin: 0;
-	padding: 0;
-	float: left; 
+	text-align: center;
+	padding-left: 0px;
 }
 
+.header a
+{
+	text-align:center;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 10%;
+	height: 10%;
+	vertical-align: middle;
+	display: flex;
+	align-items: center;
+}
+	
 .header a:hover
 {
-	background-color: rgba(135,206,250,0.5);
+	background-color:blue;
 }
 
-.current
+/* Body Centering */
+.info
 {
-	background-color: rgb(135,206,250);
+	text-align: center;
 }

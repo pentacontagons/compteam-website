@@ -27,7 +27,9 @@
 	
 			<div class="info">
 	
-				<h1> <a href="files/October_11.pdf"> October 11th Presentation  on Pseudocoding</a> </h1>
+				<h1> <a href="files/October_18.pdf"> Octber 18th Presentation on Dynamic Programming </a> </h1>
+				
+				<h1> <a href="files/October_11.pdf"> October 11th Presentation on Pseudocoding</a> </h1>
 				
 				<h2> <a href="files/Week_3_Notes.pdf"> October 11 Notes on Pseudocoding </a> </h2>
 				
